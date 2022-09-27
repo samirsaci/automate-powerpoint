@@ -29,15 +29,15 @@ This is a manual process in which you need to
 
 To be efficient, you would like to automate the process of PowerPoint deck creation.
 
+<p align="center">
+  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*U6CScNXBStNN-BYUX_xIDQ.png">
+</p>
+
 Your solution will be fully automated
 
 - Extract order lines of the last month from the WMS SQL database
 - Process the data and compute KPIs with key insights by week
 - Automatically put the visuals and insights in a PowerPoint presentation
-
-<p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*U6CScNXBStNN-BYUX_xIDQ.png">
-</p>
 
 ## Code
 This repository code you will find all the code used to explain the concepts presented in the article.
