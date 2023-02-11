@@ -9,6 +9,12 @@
 In this [Article](https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/), we will build a solution to automatically create PowerPoint slides 
 with visuals and comments.
 
+### Youtube Video
+Click on the image below to access a full tutorial to understand the concept behind this solution
+<div align="center">
+  <a href="https://youtu.be/7CsAJeQeWTc"><img src=https://i.ytimg.com/vi/7CsAJeQeWTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFTyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ2_ZYJQraKKLP_kQjIYaZ99TiXg" alt="Video Link"></a>
+</div>
+
 
 ### Scenario
 You are part of the distribution planning team of an international clothing retailer with stores on all continents.
