@@ -6,7 +6,7 @@
 </p>
 
 ### Article
-In this [Article](https://towardsdatascience.com/automate-powerpoint-slides-creation-with-python-a639c7d429a6), we will build a solution to create PowerPoint slides automatically 
+In this [Article](https://medium.com/towards-data-science/automate-powerpoint-slides-creation-with-python-a639c7d429a6), we will build a solution to create PowerPoint slides automatically 
 with visuals and comments.
 
 ### Youtube Video
